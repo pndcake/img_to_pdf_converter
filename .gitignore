@@ -1,0 +1,7 @@
+/build
+/something.pdf
+/app executable
+/app executable noConsole
+/app executable onefile version
+/app.spec
+/.vscode
